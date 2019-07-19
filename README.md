@@ -1,4 +1,6 @@
 # webpack4-example-pug-sass-babel
+![](https://img.shields.io/github/license/a90100/webpack4-example-pug-sass-babel.svg)
+
 An example project use Pug, Sass, Babel in Webpack4.
 
 ## Get started from empty file
